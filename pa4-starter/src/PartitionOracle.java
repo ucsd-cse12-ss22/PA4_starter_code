@@ -1,5 +1,3 @@
-package ucsdcse12pa5student;
-
 // These are some imports that the course staff found useful, feel free to use them
 // along with other imports from java.util.
 import java.util.ArrayList;

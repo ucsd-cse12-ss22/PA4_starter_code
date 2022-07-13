@@ -1,5 +1,3 @@
-package ucsdcse12pa5student;
-
 import java.util.Arrays;
 
 class CounterExample {

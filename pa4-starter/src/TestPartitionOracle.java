@@ -1,5 +1,3 @@
-package ucsdcse12pa5student;
-
 import static org.junit.Assert.*;
 
 import org.junit.Test;
